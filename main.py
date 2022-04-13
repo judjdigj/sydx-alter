@@ -1,7 +1,6 @@
 import openpyxl
 
 import find
-2
 
 song_name = 0
 song_alter = 0
