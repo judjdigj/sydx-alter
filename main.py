@@ -1,4 +1,4 @@
-import openpyxl
+#This main.py is only served as testing.
 
 import find
 
@@ -11,6 +11,9 @@ print("Mode Select")
 print("1 for add alter name")
 print("2 for check alter name")
 mode_select = input()
+
+if mode_select == "1":
+    print("wip")
 
 if mode_select == "2":
     print("key")
