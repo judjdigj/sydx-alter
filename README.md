@@ -4,10 +4,12 @@ W.I.P.
 ## Feature
 ### Find song with alternative name
 A shorter form "song_alter_test" was created for testing.  
+When input the alternative name:
 ```
-#input
 albida
-#output
+```
+You will get the original name:
+```
 ALBIDA Powerless Mix
 ```
 ### Add alternative name for song
