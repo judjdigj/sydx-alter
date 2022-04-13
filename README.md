@@ -2,8 +2,8 @@
 ## This project is still work in progress
 W.I.P.
 ## Feature
-Find song with alternative name  
-Add alternative name for song
+Find song with alternative name
+Add alternative name for song(W.I.P.)
 ## Acknowledgement
 [Ricebot](https://github.com/FreezeRasis/Ricebot-Nonebot)  
 [Openpyxl](https://openpyxl.readthedocs.io/en/stable/)  
