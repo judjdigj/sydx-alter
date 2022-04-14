@@ -12,7 +12,9 @@ while True:
         new = input()
         print("old name")
         old = input()
-        print(tools.alter_add(new, old))
+        print("qqid")
+        qqid = input()
+        print(tools.alter_add(new, old, qqid))
 
     if mode_select == "2":
         print("key")
